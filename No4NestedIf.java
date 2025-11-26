@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class No4NestesIf
+public class No4NestedIf
 {
     public static void main(String[] args){
         Scanner scanner = new Scanner (System.in);
